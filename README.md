@@ -10,4 +10,7 @@ Skripty určený na opravu různých problémů, jako je resetování WMI, oprav
 get
 Skripty, co sbírají informace – třeba jak dlouho je počítač zapnutý, stav služby, dostupný diskový prostor a další diagnostické údaje.
 
-za každej nápad na script, kterej bude k něčemu budu rád a pokusím se ho sem přidat
+Proč tyhle skripty?
+Nemusíš každý den dělat stejnou opravu nebo ztrácet s opakovanou manuální prací, když to může jednou vyřešit script. Tohle ti ušetří hromadu času a nervů.
+
+Za každej nápad na další script nebo změnu budu rád a pokusím se ho sem přidat.
